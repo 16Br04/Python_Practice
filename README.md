@@ -1,1 +1,2 @@
-# Python_PracticeDay 1 learning Github
+# Python_Practice
+Day 1 learning Github
