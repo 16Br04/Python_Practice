@@ -13,3 +13,9 @@ Day 2 Learning Python:-
       print("The result of the expression (A + B) * C / D is:", Ans)
 
 Day 3 Learning Python
+  code to print factorials
+      N = 5
+      factorial = 1
+      for i in range (1, N+1):
+          factorial = factorial * i
+      print(factorial)
