@@ -19,3 +19,6 @@ Day 3 Learning Python
       for i in range (1, N+1):
           factorial = factorial * i
       print(factorial)
+
+Day 4 learning Python:-
+  code to 
