@@ -25,3 +25,5 @@ Day 4 learning Python:-
         rows = 5
         for i in range (1, rows + 1):
           print("*" * i)
+
+Day 5 learning Python:-
