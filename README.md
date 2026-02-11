@@ -23,6 +23,5 @@ Day 3 Learning Python
 Day 4 learning Python:-
   code to 
         rows = 5
-
-for i in range (1, rows + 1):
-    print("*" * i)
+        for i in range (1, rows + 1):
+          print("*" * i)
