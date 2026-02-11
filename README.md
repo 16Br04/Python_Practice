@@ -21,7 +21,7 @@ Day 3 Learning Python
       print(factorial)
 
 Day 4 learning Python:-
-  code to 
+  code to Print Stars
         rows = 5
         for i in range (1, rows + 1):
           print("*" * i)
