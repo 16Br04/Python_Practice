@@ -27,3 +27,9 @@ Day 4 learning Python:-
           print("*" * i)
 
 Day 5 learning Python:-
+    Code to Check Palindrom
+        Word = input("Enter a word: ")
+        if Word == Word[::-1]:
+          print("It is A Palindrome")
+        else:
+          print("It is Not A Palindrom")
